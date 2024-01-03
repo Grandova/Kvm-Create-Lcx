@@ -10,8 +10,8 @@ If you don't have enough funds to afford a physical server, you happen to have a
 
 INSTALLATION REQUIREMENTS :
 
-Core>2
-Memory>2
+Core>2\n
+Memory>2G\n
 Storage>20G
 
 1. Check VPS configuration requirements
